@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on idk
 - 🤔 I’m looking for help with idk
-- 💬 Ask me about Anything about Tech & CS
+- 💬 Ask me about Tech & CS
 - 📫 How to reach me: slab-canon-nail@duck.com
 - ⚡ Fun fact: idk
 
