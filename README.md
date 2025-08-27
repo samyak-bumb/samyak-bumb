@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**samyak-bumb/samyak-bumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 # 💫About Me :
 - 🔭 I’m currently working on idk
 - 🌱 I’m currently learning DSA
@@ -19,8 +14,8 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=samyak-bumb&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samyak-bumb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/samyakBumb.png" alt="Your Image Badge" />
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=samyak-bumb&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
