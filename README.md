@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫About Me :
-- 🔭 I’m currently working on idk
+- 🔭 I’m currently working on a Android App
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on idk
 - 🤔 I’m looking for help with idk
